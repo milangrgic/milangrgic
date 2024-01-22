@@ -1,4 +1,4 @@
-👋 # Senior Software Engineer (Blockchain & Rust) 
+ # Senior Rust & Blockchain Engineer
 
 ## About Me
 Accomplished senior innovative, results-driven engineer with a comprehensive background in Rust programming and blockchain development, specializing in architecting and delivering high-performance, secure, and scalable systems. 
